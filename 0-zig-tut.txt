@@ -1,0 +1,6 @@
+#zig install tut
+wget https://ziglang.org/download/zig-x86_64-linux-0.16.0...
+	tar zig
+	mv zig /usr/local/zig
+	ln -s /usr/local/zig/zig /usr/local/bin/zig
+
