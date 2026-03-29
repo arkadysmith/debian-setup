@@ -1,5 +1,5 @@
 #!/bin/bash
-sudo apt-get install -y --no-installrecommends \
+sudo apt-get install -y --no-install-recommends \
 	xserver-xorg-core \
 	xserver-xorg-input-libinput \
 	xserver-xorg-video-amd \
